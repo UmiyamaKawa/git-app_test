@@ -1,4 +1,4 @@
 class TestsController < ApplicationController
-  def index1
+  def index
   end
 end
